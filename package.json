@@ -1,6 +1,6 @@
 {
-  "name": "threejs-journey-exercise",
-  "private": true,
+  "name": "scroll-based-anim",
+  "homepage": "https://adnanshahsahb.github.io/threejs-scroll-parallax/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
